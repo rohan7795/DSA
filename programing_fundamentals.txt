@@ -1,0 +1,40 @@
+3 types of programming languages
+
+1. Procedural Language 
+	Series of well structured steps excuted one by one includes function 
+
+2. Functional
+	Series of functions
+	Bundle a code in function to reuse it.
+	Never modify variables. just operate on inocomming variables
+	Situation - Opperations on same set of data. Simalar operations on similar signature of incoming data.
+	Ex. Python, 
+
+3. Object Oriented Programming
+	Uses classes which is a named group of methods and properties.
+
+
+Static Vs Dynamic languages
+	
+Static - 
+	Define datatype when declaring variable at compile time
+	Errors showup at compile time
+	More control
+
+Dynamic - 
+	No need to define type when declaring variable
+	Ex. Python
+
+
+Memories
+
+Stack  - 
+	a = 10.
+	here,
+	- a is reference variable and 10 is object
+	- variables are stored in stack and objects are stord in heap
+	- a will point to address of the stored object
+
+Garbage collection - 
+	
+	If objects does not have any reference variable pointing to it. It will be removed from the memory.
